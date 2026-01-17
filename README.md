@@ -43,14 +43,14 @@ API React moderna desarrollada para consumir la API REST de gestión de alumnos,
 
 <img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/5769522c-6ffd-4de9-a28c-f783b42c2b79" />
 
-• Editar materia:
+• Editar alumno:
 
 <img width="1365" height="542" alt="image" src="https://github.com/user-attachments/assets/a7e33649-5bdf-45e3-9880-c4dda8ff25e4" />
 
 <img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/eed6644c-1b54-4184-b6f3-b32c769fbf05" />
 
 
-• Eliminar materia:
+• Eliminar alumno:
 
 <img width="1364" height="657" alt="image" src="https://github.com/user-attachments/assets/bc12a156-3dac-4262-8934-efbd4f7d2885" />
 
