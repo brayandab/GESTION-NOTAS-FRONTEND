@@ -1,4 +1,3 @@
-<img width="1356" height="574" alt="image" src="https://github.com/user-attachments/assets/ef43b4ce-d6d4-4ad7-91c0-14cf6bd4b424" /># React + TypeScript + Vite
 
 PRUEBA: TECNICA-FULL-STACK
 
@@ -62,6 +61,8 @@ API React moderna desarrollada para consumir la API REST de gestión de alumnos,
 • Crear notas:
 
 <img width="1352" height="662" alt="image" src="https://github.com/user-attachments/assets/bf52c330-e619-4fae-a70a-3636dd299209" />
+
+<img width="1365" height="486" alt="image" src="https://github.com/user-attachments/assets/5446edad-b71c-4586-90c4-183d2059687b" />
 
 
 Currently, two official plugins are available:
