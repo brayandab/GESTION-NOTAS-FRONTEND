@@ -99,11 +99,8 @@ http://localhost:8080/swagger-ui/index.html
    git clone https://github.com/brayandab/GESTION-NOTAS-FRONTEND
    cd GESTION-NOTAS-FRONTEND
 
-
-
-2. **Camandos para desplegar en docker mediante compose.(asegurarse de esta en la carpeta del proyecto clonado anteriormete.)**
-   ```bash
-     docker-compose up --build
+   Luego ejecutar el siguiente comando.
+   npm run dev
 
 
 Para Acceder a la Aplicación ir a la siguiente URL: http://localhost:5173/materias
