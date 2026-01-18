@@ -99,9 +99,7 @@ http://localhost:8080/swagger-ui/index.html
    git clone https://github.com/brayandab/GESTION-NOTAS-FRONTEND
    cd GESTION-NOTAS-FRONTEND
 
-   
-   git clone https://github.com/brayandab/GESTION-NOTAS-BACKEND
-   cd GESTION-NOTAS-BACKEND
+
 
 2. **Camandos para desplegar en docker mediante compose.(asegurarse de esta en la carpeta del proyecto clonado anteriormete.)**
    ```bash
